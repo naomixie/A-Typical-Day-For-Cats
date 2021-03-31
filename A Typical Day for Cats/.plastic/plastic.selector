@@ -1,0 +1,4 @@
+repository "A Typical Day for Cats@ssl://naomixie@sh02-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/naomi_michella" 
+     
